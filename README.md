@@ -1,10 +1,10 @@
 # How to Install Genymotion & VirtualBox on Parrot OS
 
-I've recently dived into the world of "hacking". No, not the type of advanced hacking that you see in Watch Dogs or Mr. Robot, because I am a super noob/skiddie, and let's be honest, cybersecurity is vast and difficult to get started in. So I thought, why don't I document my progress or learning milestones by helping others with simple things whilst I climb the ranks from skiddie to _"I now know how to not breakdown every time I use Burp Suite"._
+I've recently dived into the world of "hacking". No, not the type of advanced hacking that you see in Watch Dogs or Mr. Robot, because I am a super noob/skiddie, and let's be honest, cybersecurity is vast and difficult to get started in. So I thought, why don't I document my progress or learning milestones by helping others with simple things whilst I climb the ranks from skiddie to _"I now know how to not breakdown every time I use Burp Suite"._😭
 
 ![Mr Robot Crying](https://media.giphy.com/media/JFo3BEQFmK4cU/giphy.gif)
 
-When you're ready, grab your closest Red Bull and your favorite cool-guy shades, and let's dive into this tutorial on how to install [Genymotion](https://www.genymotion.com/) & [VirtualBox](https://www.virtualbox.org/) on Parrot OS.
+When you're ready, grab your closest Red Bull and your favorite cool-guy shades, and let's dive into this tutorial on how to install [Genymotion](https://www.genymotion.com/) & [VirtualBox](https://www.virtualbox.org/) on Parrot OS.😎 
 
 First, let's discuss why we would use Genymotion, and what VirtualBox is for. Genymotion is an Android emulator, meaning it emulates a mobile device via a VirtualBox (which allows us to run the Android OS on our operating systems). This emulation allows us to access real-time Android capabilities such as using the browser, downloading apps via the Play Store, or accessing the front/back camera - as we would with our actual device. We use device emulators for a variety of things, such as testing our Android apps that we made, or for android pen-testing. Now, a better method to test our apps is to use a rooted android device, and this requires a physical device, but that's a tutorial on its own. 
 
@@ -75,7 +75,7 @@ Now that Genymotion and VirtualBox are installed, we can now sign in and get our
 ![Genymotion Setup](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kofgkc8v5pwl3ft1vpk1.png)
 ![Genymotion Setup](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpzlteeyb1jiuom2oe3i.png)
        
-Okay, that's a wrap. I hope that this tutorial helped you, and was not too complex. See ya' next time!
+Okay, that's a wrap. I hope that this tutorial helped you, and was not too complex. See ya' next time!😊
 
 
 
